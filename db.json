@@ -185,16 +185,6 @@
 				"institutionId": 716,
 				"matchingScore": 59,
 				"match": false
-			},
-			{
-				"personId": 113931,
-				"firstName": "Hahnl(scrubbed)",
-				"lastName": "Choi",
-				"emailAddress": "Hahnl_Choi85792@nosmtp.k12.com",
-				"dateOfBirth": "1995-09-11 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 59,
-				"match": false
 			}],
 			"success": true
 		},
@@ -381,16 +371,6 @@
 				"dateOfBirth": "1994-05-26 00:00:00",
 				"institutionId": 716,
 				"matchingScore": 60,
-				"match": false
-			},
-			{
-				"personId": 114462,
-				"firstName": "Emily(scrubbed)",
-				"lastName": "Hartmann",
-				"emailAddress": "Emily_Hartmann93660@nosmtp.k12.com",
-				"dateOfBirth": "1996-02-03 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 59,
 				"match": false
 			}],
 			"success": true
