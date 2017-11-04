@@ -155,16 +155,6 @@
 				"institutionId": 716,
 				"matchingScore": 61,
 				"match": false
-			},
-			{
-				"personId": 113932,
-				"firstName": "Jihye(scrubbed)",
-				"lastName": "Choi",
-				"emailAddress": "Jihye_Choi85805@nosmtp.k12.com",
-				"dateOfBirth": "1994-05-17 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 59,
-				"match": false
 			}],
 			"success": true
 		},
@@ -319,16 +309,6 @@
 				"lastName": "Hormozian",
 				"emailAddress": "Rachel_Hormozian94812@nosmtp.k12.com",
 				"dateOfBirth": "1996-06-04 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 61.5,
-				"match": false
-			},
-			{
-				"personId": 116241,
-				"firstName": "Joshua(scrubbed)",
-				"lastName": "Woolston",
-				"emailAddress": "Joshua_Woolston119558@nosmtp.k12.com",
-				"dateOfBirth": "1993-03-29 00:00:00",
 				"institutionId": 716,
 				"matchingScore": 61.5,
 				"match": false
