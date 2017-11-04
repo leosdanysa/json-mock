@@ -1,5 +1,5 @@
 {
-	"resultData": [{
+	"posts": {"resultData": [{
 		"sourceId": "115109",
 		"firstName": "Robyn",
 		"lastName": "Christopher",
@@ -357,4 +357,8 @@
 	}],
 	"success": true,
 	"resultMessage": "Merge and Match process has been success."
+	},
+	"profile": {
+    "name": "leosdanysa"
+  }
 }
