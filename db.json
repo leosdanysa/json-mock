@@ -165,26 +165,6 @@
 				"institutionId": 716,
 				"matchingScore": 59,
 				"match": false
-			},
-			{
-				"personId": 113936,
-				"firstName": "Sung(scrubbed)",
-				"lastName": "Choi",
-				"emailAddress": "Sung_Choi85863@nosmtp.k12.com",
-				"dateOfBirth": "1996-11-28 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 59,
-				"match": false
-			},
-			{
-				"personId": 113935,
-				"firstName": "Steven(scrubbed)",
-				"lastName": "Choi",
-				"emailAddress": "Steven_Choi85855@nosmtp.k12.com",
-				"dateOfBirth": "1995-09-10 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 59,
-				"match": false
 			}],
 			"success": true
 		},
@@ -351,26 +331,6 @@
 				"dateOfBirth": "1993-03-29 00:00:00",
 				"institutionId": 716,
 				"matchingScore": 61.5,
-				"match": false
-			},
-			{
-				"personId": 85362,
-				"firstName": "Emily(scrubbed)",
-				"lastName": "Horta",
-				"emailAddress": "Emily_Horta89776@nosmtp.k12.com",
-				"dateOfBirth": null,
-				"institutionId": 716,
-				"matchingScore": 60,
-				"match": false
-			},
-			{
-				"personId": 114238,
-				"firstName": "Guillermo(scrubbed)",
-				"lastName": "Foreman",
-				"emailAddress": "Guillermo_Foreman90241@nosmtp.k12.com",
-				"dateOfBirth": "1994-05-26 00:00:00",
-				"institutionId": 716,
-				"matchingScore": 60,
 				"match": false
 			}],
 			"success": true
